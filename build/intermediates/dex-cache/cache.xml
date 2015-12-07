@@ -2,53 +2,32 @@
 <items version="2" >
 
     <item
-        jar="/home/cobalt/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jar="C:\Users\Christian\Desktop\Practical\localbinary\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\Christian\Desktop\Practical\localbinary\app\build\intermediates\pre-dexed\debug\classes-28e3cabef74ca0eccd1e896c90bcdd2dc31132c4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Christian\Desktop\Practical\localbinary\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\Christian\Desktop\Practical\localbinary\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-e4ace7425724b087308a32c06e31ec425ec496cf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Christian\Desktop\Practical\localbinary\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\Christian\Desktop\Practical\localbinary\app\build\intermediates\pre-dexed\debug\classes-2e8e798f2e5cd99090a82d0b9bb943dad1259afa.jar" />
+    </item>
+    <item
+        jar="C:\Users\Christian\AppData\Local\Android\sdk2\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
-        <dex dex="/home/cobalt/AndroidStudioProjects/SmileDetection/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-8cc0e63cf9402c9ce3f4cccb6b99350936f413b8.jar" />
-    </item>
-    <item
-        jar="/home/cobalt/AndroidStudioProjects/SmileDetection/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
-        <dex dex="/home/cobalt/AndroidStudioProjects/SmileDetection/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-4365b624f30601fdc4e1fed16016b57c04d95b43.jar" />
-    </item>
-    <item
-        jar="/home/cobalt/AndroidStudioProjects/SmileDetection/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
-        <dex dex="/home/cobalt/AndroidStudioProjects/SmileDetection/app/build/intermediates/pre-dexed/debug/classes-67c86a298736c28e81d5f2486d72cc360b01ff35.jar" />
-    </item>
-    <item
-        jar="/home/cobalt/AndroidStudioProjects/LBPFeatures/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
-        <dex dex="/home/cobalt/AndroidStudioProjects/LBPFeatures/app/build/intermediates/pre-dexed/debug/classes-e48a092d73c9f884756f276e80573b05bbf62bd4.jar" />
-    </item>
-    <item
-        jar="/home/cobalt/AndroidStudioProjects/LBPFeatures/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
-        <dex dex="/home/cobalt/AndroidStudioProjects/LBPFeatures/app/build/intermediates/pre-dexed/debug/classes-a4c3d9c5e6de72f332dbf43007e67a722a237470.jar" />
-    </item>
-    <item
-        jar="/home/cobalt/AndroidStudioProjects/LBPFeatures/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
-        <dex dex="/home/cobalt/AndroidStudioProjects/LBPFeatures/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-cba8897df49c87914f729d51fdeae4a8a5ffad37.jar" />
-    </item>
-    <item
-        jar="/home/cobalt/AndroidStudioProjects/SmileDetection/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
-        <dex dex="/home/cobalt/AndroidStudioProjects/SmileDetection/app/build/intermediates/pre-dexed/debug/classes-633ef284c906da8d1f7d2f42d4d95e8ff16c6a6d.jar" />
+        <dex dex="C:\Users\Christian\Desktop\Practical\localbinary\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-f3aed926c2583305204d4868b7487cfc9709eb6f.jar" />
     </item>
 
 </items>
