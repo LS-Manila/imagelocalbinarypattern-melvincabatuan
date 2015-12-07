@@ -2,6 +2,7 @@
 
 imagelocalbinarypattern-melvincabatuan created by Classroom for GitHub
 
+(Sir. I'm sorry. I accidentally changed it while uploading in git. -Christian)
 This project shows the Local Binary Pattern (LBP) image features through Java Native Interface (JNI).
 
 ## Prerequisite:
